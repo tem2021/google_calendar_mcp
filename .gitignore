@@ -23,3 +23,6 @@ tokens.json
 
 # docs
 README_CN.md
+
+# pyenv local env
+.python-version
